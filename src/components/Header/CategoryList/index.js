@@ -5,23 +5,23 @@ export default function CategoryList () {
                 <nav>
                     <ul>
                         <li>
-                            <a>Início</a>
+                            <a href= "/#">Início</a>
                         </li>
 
                         <li>
-                            <a>Categorias</a>
+                            <a href= "/#">Categorias</a>
                         </li>
 
                         <li>
-                            <a>Jogos</a>
+                            <a href= "/#">Jogos</a>
                         </li>
 
                         <li>
-                            <a>Bombando</a>
+                            <a href= "/#">Bombando</a>
                         </li>
 
                         <li>
-                            <a>Minha Lista</a>
+                            <a href= "/#">Minha Lista</a>
                         </li>
                     </ul>
                 </nav>

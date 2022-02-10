@@ -1,7 +1,7 @@
 export default function Cards () {
     return (
         <li>
-            <a>
+            <a href= "/#">
                 <div>
                     <div>
 

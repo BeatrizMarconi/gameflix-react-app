@@ -4,7 +4,7 @@ export default function Logo (){
     return (
         <div>
             <div>
-                <img src={ImgLogo}/>
+                <img src={ImgLogo} alt="Logo"/>
             </div>
         </div>
 
