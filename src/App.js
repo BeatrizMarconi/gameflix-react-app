@@ -1,10 +1,10 @@
-import Reader from "./components/Reader";
+import Header from "./components/Reader";
 
 
 function App() {
   return (
     <>
-      <Reader/>
+      <Header/>
     </>
   );
 }

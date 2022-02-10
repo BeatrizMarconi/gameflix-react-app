@@ -1,7 +1,7 @@
 import CategoryList from "./categoryList";
 import Logo from "./Logo";
 
-export default function Reader () {
+export default function Header () {
     return (
         <div>
             <div>
