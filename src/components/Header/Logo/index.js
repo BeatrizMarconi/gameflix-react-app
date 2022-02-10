@@ -1,4 +1,4 @@
-import ImgLogo from '../../../Assets/Header/logo.jpg'
+import ImgLogo from '../../../Assets/Images/Header/logo.jpg'
 
 export default function Logo (){
     return (
