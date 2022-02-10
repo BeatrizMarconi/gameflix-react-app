@@ -1,4 +1,5 @@
-import CategoryList from "./categoryList";
+import CategoryList from "./CategoryList";
+import Icons from "./Icons";
 import Logo from "./Logo";
 
 export default function Header () {
@@ -7,6 +8,7 @@ export default function Header () {
             <div>
                 <Logo/>
                 <CategoryList/>
+                <Icons/>
             </div>
         </div>
     )
