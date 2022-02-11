@@ -1,6 +1,8 @@
+import styles from './CategoryList.module.css'
+
 export default function CategoryList () {
     return (
-        <div>
+        <div className= {styles.categoryList}>
             <div>
                 <nav>
                     <ul>

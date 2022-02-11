@@ -1,6 +1,8 @@
+import styles from './Icons.module.css'
+
 export default function Icons () {
     return (
-        <div>
+        <div className= {styles.icons}>
             <div>
                 <p>Icone 1</p>
             </div>

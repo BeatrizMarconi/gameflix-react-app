@@ -1,6 +1,8 @@
+import styles from './Cards.module.css'
+
 export default function Cards () {
     return (
-        <li>
+        <li className= {styles.cards}>
             <a href= "/#">
                 <div>
                     <div>

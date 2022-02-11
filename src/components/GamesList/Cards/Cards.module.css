@@ -1,0 +1,59 @@
+.cards {
+    margin: 0 10px;
+}
+.cards a {
+    text-decoration:none;
+}
+
+.cards a:hover {
+    text-decoration:solid;
+    color: #C0C0C0;
+}
+
+.cards a div {
+    height: 100%; 
+    margin: 0;
+    justify-content: flex-start;
+    background-color: #1C1C1C;
+    flex-direction: column;
+}
+
+.cards a div:hover {
+    background: #DB7093;
+    color: black;
+}
+
+.cards a div div:first-child, .cards a div {
+    align-items: center;
+    border-radius: 5px;
+    justify-content: center;
+    display: flex;
+}
+
+.cards a div div:first-child {
+    width:95%;
+    height: 150px;
+    border-width: medium;
+    border-style: solid;
+    border-color: #FF6EC7;
+    margin-top: 5px;
+}
+.cards a div div:first-child, .cards a div div:last-child {
+    color: #DCDCDC;
+}
+
+.cards a div div:last-child {
+    font-family: FreeMono, monospace;
+    font-size: 18px;
+    width: 100%;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.cards a div div:last-child p:last-child {
+    width: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 15px;
+}

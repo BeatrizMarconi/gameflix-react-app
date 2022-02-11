@@ -1,6 +1,6 @@
-import Banner from "./Components/Banner";
-import GamesList from "./Components/GamesList";
-import Header from "./Components/Header";
+import Banner from "./components/Banner";
+import GamesList from "./components/GamesList";
+import Header from "./components/Header";
 
 
 function App() {

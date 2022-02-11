@@ -1,0 +1,10 @@
+.icons {
+    width: 50%;
+    justify-content: flex-end;
+    display: flex;
+}
+
+.icons div {
+    color: white; 
+    font-family: FreeMono, monospace;
+}

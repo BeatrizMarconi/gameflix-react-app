@@ -1,0 +1,17 @@
+.containerMain {
+    align-items:flex-end;
+    background: black;
+    height: 100%; 
+    margin: 0;
+    justify-content: center;
+    width: 100%;
+}
+
+.containerMain div {
+    width: 90%;
+    align-items: center;
+}
+
+.containerMain, .containerMain div {
+    display: flex;
+}

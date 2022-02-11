@@ -1,8 +1,9 @@
 import Cards from "./Cards";
+import styles from './GamesList.module.css'
 
 export default function GamesList () {
     return (
-        <div>
+        <div className= {styles.gamesList}>
             <div>
                 <div>
                     <h2>JOGOS RETRÔ</h2>

@@ -1,0 +1,17 @@
+.categoryList {
+    width: 60%;
+    justify-content: flex-start;
+}
+
+.categoryList div nav ul {
+    display: flex;
+}
+
+.categoryList div nav ul li {
+    margin: 0 10px;
+}
+
+.categoryList div nav ul li a {
+    color: white;
+    font-family: FreeMono, monospace;
+}
